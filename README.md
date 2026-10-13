@@ -80,4 +80,4 @@ Pendiente de configurar con GitHub Actions.
 ## 11. Herramientas de modelado y diseño
 - Herramienta de diagramación: Pendiente
 - Figma: Pendiente
-- Evidencias: Pendientes
+- Evidencias: Pendiente
